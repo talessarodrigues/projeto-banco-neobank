@@ -18,6 +18,9 @@ Este projeto foi desenvolvido como parte do curso de UX/UI Design. O objetivo fo
 - Breakpoints e Responsive
 - Entrega Final do app com Interações
 
+- ## 🔗 Protótipo no Figma
+[Visualizar Protótipo][https://www.figma.com/proto/00rJxuArbnY0i1b8ZwbGYY/Projeto-banco-Neobank-EBAC?page-id=204%3A2334&node-id=204-2583&p=f&viewport=131%2C174%2C0.16&t=I5rb2izve261xPCx-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=204%3A2986]
+
 ## 🧩 Ferramentas
 - Figma
 - Design Thinking
