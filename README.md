@@ -24,6 +24,4 @@ Este projeto foi desenvolvido como parte do curso de UX/UI Design. O objetivo fo
 - Medium
 
 ## 📸 Telas
-![Mobile](imagens/homepage1.png)
-![Desktop](imagens/homepage2.png)
-![Smartwaches](imagens/homepage3.png)
+![Protótipo Final](https://github.com/user-attachments/assets/ac02740b-8937-412a-b0f4-faa01187ca27)
