@@ -7,7 +7,7 @@ Este projeto foi desenvolvido como parte do curso de UX/UI Design. O objetivo fo
 - Matriz CSD
 - Desk research
 - Mapa de stakeholders
-- Personas (Carlos, Mariana e Roberto)
+- Personas 
 - Wireframe de baixa qualidade
 - Testes de usabilidade
 - Backlog
