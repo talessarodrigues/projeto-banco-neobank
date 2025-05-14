@@ -26,7 +26,7 @@ Este projeto foi desenvolvido como parte do curso de UX/UI Design. O objetivo fo
 - Design Thinking
 - Medium
 - 
-### ✨ Gostou? Venha ver o projeto completo:
+### ✨ Gostou? Veja o projeto completo aqui:
 
 [![Ver no Behance](https://img.shields.io/badge/Ver%20no%20Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gallery/224993379/Redesenhando-a-experiencia-bancaria-com-foco-em-UXUI)  
 [![Leia no Medium](https://img.shields.io/badge/Leia%20no%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@talessaamayaraah15/estudo-de-caso-criando-a-experiência-do-neobank-redesenhando-a-experiência-bancária-com-foco-em-3458331659d7)
